@@ -1,0 +1,23 @@
+{
+  "name": "charles_oliveira",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexZGuerrero/charles_oliveira.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexZGuerrero/charles_oliveira/issues"
+  },
+  "homepage": "https://github.com/AlexZGuerrero/charles_oliveira#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
